@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1572465384 source:c:\users\andrei\desktop\proiect 1 poo\main.cpp
+	<iostream>
+	"Lista_circulara.h"
+	"Nod.h"
+
+1572464597 source:c:\users\andrei\desktop\proiect 1 poo\nod.cpp
+	"Nod.h"
+
+1572464597 c:\users\andrei\desktop\proiect 1 poo\nod.h
+
+1572465057 source:c:\users\andrei\desktop\proiect 1 poo\lista_circulara.cpp
+	"Lista_circulara.h"
+
+1572464658 c:\users\andrei\desktop\proiect 1 poo\lista_circulara.h
+	<iostream>
+	"Nod.h"
+
