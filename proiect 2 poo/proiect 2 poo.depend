@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1574888086 source:c:\users\andrei\desktop\proiect 2 poo\client.cpp
+	"Client.h"
+
+1574882736 c:\users\andrei\desktop\proiect 2 poo\client.h
+	<vector>
+	<string>
+	<iostream>
+	<cstdlib>
+	<complex>
+	<tuple>
+	<typeinfo>
+	"Informatie.h"
+	"InfoText.h"
+	"InfoMatematic.h"
+	"InfoAdresa.h"
+	"InfoNumar.h"
+
+1574791518 source:c:\users\andrei\desktop\proiect 2 poo\informatie.cpp
+	"Informatie.h"
+
+1574849907 c:\users\andrei\desktop\proiect 2 poo\informatie.h
+	<iostream>
+
+1574850325 source:c:\users\andrei\desktop\proiect 2 poo\infotext.cpp
+	"InfoText.h"
+
+1574850330 c:\users\andrei\desktop\proiect 2 poo\infotext.h
+	"Informatie.h"
+	<string>
+
+1574890919 source:c:\users\andrei\desktop\proiect 2 poo\main.cpp
+	<iostream>
+	<cstring>
+	<tuple>
+	<vector>
+	<cstdlib>
+	<complex>
+	<typeinfo>
+	"Informatie.h"
+	"InfoMatematic.h"
+	"Management.h"
+	"InfoAdresa.h"
+
+1574546423 source:c:\users\andrei\desktop\proiect 2 poo\test.cpp
+	<iostream>
+	<cstring>
+	<tuple>
+	<vector>
+	<cstdlib>
+
+1574853362 source:c:\users\andrei\desktop\proiect 2 poo\infonumar.cpp
+	"InfoNumar.h"
+
+1574853094 c:\users\andrei\desktop\proiect 2 poo\infonumar.h
+	"Informatie.h"
+
+1574852345 source:c:\users\andrei\desktop\proiect 2 poo\infoadresa.cpp
+	"InfoAdresa.h"
+
+1574850748 c:\users\andrei\desktop\proiect 2 poo\infoadresa.h
+	"Informatie.h"
+	<tuple>
+
+1574853009 source:c:\users\andrei\desktop\proiect 2 poo\infomatematic.cpp
+	"InfoMatematic.h"
+
+1574852900 c:\users\andrei\desktop\proiect 2 poo\infomatematic.h
+	"Informatie.h"
+	<complex>
+
+1574765267 source:c:\users\andrei\desktop\proiect 2 poo\nr_complex.cpp
+
+1574890983 source:c:\users\andrei\desktop\proiect 2 poo\management.cpp
+	"Management.h"
+
+1574890845 c:\users\andrei\desktop\proiect 2 poo\management.h
+	<iostream>
+	<string>
+	<vector>
+	"Client.h"
+
