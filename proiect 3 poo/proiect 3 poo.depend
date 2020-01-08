@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1578512161 source:c:\users\andrei\desktop\proiect 3 poo\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<typeinfo>
+	<bits/stdc++.h>
+	<cctype>
+
+1578511277 source:c:\users\andrei\desktop\proiect 3 poo\management.cpp
+	"Management.h"
+
+1578511466 c:\users\andrei\desktop\proiect 3 poo\management.h
+
+1578511277 c:\users\andrei\desktop\proiect 3 poo\management.cpp
+	"Management.h"
+
+1578512110 c:\users\andrei\desktop\proiect 3 poo\masina.h
+	<string>
+
+1578511828 c:\users\andrei\desktop\proiect 3 poo\masina.cpp
+	"Masina.h"
+
+1578512207 source:c:\users\andrei\desktop\proiect 3 poo\masina.cpp
+	"Masina.h"
+

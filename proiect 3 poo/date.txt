@@ -1,0 +1,7 @@
+3
+Audi_R8
+40000
+Bugatti_Veyron
+80000
+Lexus_TF
+70000
